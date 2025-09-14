@@ -50,6 +50,13 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+My first challenge will be the span which is in line with the label, so I have to come up with that idea.
+For the error state I will attempt to use form validation constraint api.
+Hover state I will try using focus visible also 
+The success I will try to create anotther html and direct it to that page.
+
+
+
 
 ### Built with
 
@@ -58,9 +65,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
