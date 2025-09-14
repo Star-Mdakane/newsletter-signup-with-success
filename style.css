@@ -143,8 +143,12 @@ button {
     transition: all 0.3s ease-in;
 }
 
-button:hover {
+button:hover,
+button:focus-visible {
     background: linear-gradient(to right, rgb(236, 71, 60), rgb(254, 82, 123));
+    border: 0;
+    box-shadow: 5px 5px 10px var(--blue-dark);
+    outline: none;
 
 }
 

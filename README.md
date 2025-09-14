@@ -34,13 +34,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+Added
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
@@ -51,9 +45,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 My first challenge will be the span which is in line with the label, so I have to come up with that idea.
+-This was simple as I just used grid with space between to seperate the two  elements.
 For the error state I will attempt to use form validation constraint api.
 Hover state I will try using focus visible also 
 The success I will try to create anotther html and direct it to that page.
+I realised late that I had to use local storage to save the email and use it on the success page.
 
 
 
@@ -64,7 +60,7 @@ The success I will try to create anotther html and direct it to that page.
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+- Vanilla JavaScript
 
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
@@ -101,7 +97,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Kevin Powell YouTube](https://www.example.com) - Recently uploaded a form validation video.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
@@ -109,8 +105,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Star-Mdakane](https://www.frontendmentor.io/profile/@Star-Mdakane)
+- Twitter - [@KidStarMadrad](https://www.twitter.com/@KidStarMadrad)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
